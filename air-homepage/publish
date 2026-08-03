@@ -1,0 +1,1 @@
+rsync -vzrtopg --progress --delete --links --exclude '.git' . robotics@bravo.cs.binghamton.edu:/home2/robotics/public_html
